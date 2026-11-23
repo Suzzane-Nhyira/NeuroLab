@@ -3,6 +3,10 @@
 
 ### A Neural Network Framework Built from Scratch
 
+[🚀 **Live Interactive Demo — NeuroLab Studio**](https://neurolab-vglrmnfekhvb62khlsxkpp.streamlit.app/)
+
+Explore neural-network training, experiment with different architectures, compare datasets, and visualize model performance.
+
 NeuroLab is an educational deep learning framework developed using Python and NumPy. It implements the fundamental components of neural networks without relying on high-level deep learning frameworks.
 
 The project explores the mathematics and engineering behind neural networks, from forward propagation and backpropagation to optimization, multiclass classification, and model evaluation.
